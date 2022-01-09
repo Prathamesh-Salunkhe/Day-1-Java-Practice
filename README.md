@@ -1,2 +1,2 @@
-# Day-1-Java-Practice
+# Java-Practice
 Java codes
